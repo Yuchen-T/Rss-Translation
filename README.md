@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - source001 [https://www.ft.com/china?format=rss](https://www.ft.com/china?format=rss) -> [financial_times](rss/financial_times.xml)
+ - source002 [https://aldaily.substack.com/feed](https://aldaily.substack.com/feed) -> [Arts & Letters Daily](rss/Arts%20%26%20Letters%20Daily.xml)
